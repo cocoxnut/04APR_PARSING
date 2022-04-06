@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e41029a7-507b-4a3d-96cd-dab0f52a26ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class2.py.save" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/class9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02MAR STR &amp; INT/homework8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/class9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03MAR IF &amp; ELIF &amp; ELSE/homework9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/homework1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/homework2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/homework3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/homework6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/work1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/work2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/work3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/work4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04MAR FOR &amp; WHILE/work5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/class9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07MAR EXERCISES/homework4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10MAR LIST &amp; TUPLE/class9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/class9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/homework2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/homework3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/homework4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11MAR SET &amp; DIC/homework5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14MAR EXERCISES/class.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27JdFV0Vy8AeLp1cB2uSQKHyjKx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="04APR_PAIRSING" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41029a7-507b-4a3d-96cd-dab0f52a26ad" name="Changes" comment="" />
+      <created>1649042019817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649042019817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
